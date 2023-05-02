@@ -1,5 +1,6 @@
 # cpsc-355-
 word to my mother
+
 a1: 95 (forgot to print current max in loop), (did not print result in gdb in part 2)
 a2: 100
 a3: 100

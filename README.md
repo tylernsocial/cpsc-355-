@@ -1,5 +1,5 @@
 # cpsc-355-
-word to my mother
+word to my motha
 
 a1: 95 (forgot to print current max in loop), (did not print result in gdb in part 2)
 

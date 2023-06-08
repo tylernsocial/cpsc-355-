@@ -1,5 +1,5 @@
 # cpsc-355-
-i like chicken
+collection of assembly/c programs 
 
 a1: 95 (forgot to print current max in loop), (did not print result in gdb in part 2)
 
